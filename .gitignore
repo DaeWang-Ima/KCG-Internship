@@ -1,0 +1,13 @@
+.ipynb_checkpoints
+
+.DS_Store
+
+logs.log
+
+ServiceKey.txt
+
+해상조난사고\현황분석\및\시계열\예측/Images
+
+KaKaoApiKey.txt
+
+차량추락위치_시각화.qgs~
